@@ -36,4 +36,11 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
 # sveltekit-supabase-example
+
+This is based on the Supabase tutorial: [Setting up Server-Side Auth for SvelteKit](https://supabase.com/docs/guides/auth/server-side/sveltekit).
+
+Another good reference: https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit
+
+
